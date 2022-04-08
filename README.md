@@ -1,3 +1,1 @@
-"# opengl_learn" 
-"# opengl_learn" 
-"# basic_opengl" 
+Basic OpenGL learning

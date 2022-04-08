@@ -1,0 +1,13 @@
+Variables -> camelCase
+Functions -> Pascal
+Classes -> PascalCase
+Uniform Shader Variables -> uVariable
+Private Variables -> _Variable
+
+definitions:
+size -> size of an array in bytes
+count -> number of indices on array
+ex:
+int array[3] = {1, 2, 3};
+size  = 3 * sizeof(int);
+count = 3;
